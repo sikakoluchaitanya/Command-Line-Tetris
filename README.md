@@ -22,9 +22,9 @@ Welcome to Tetris in C++, a classic implementation of the legendary block-stacki
 
 ## Screenshots and Videos
 
-![Tetris Gameplay](picture_tetris.png)
 
-Watch the Tetris gameplay in action: [Tetris Gameplay Video](video_tetris.mkv)
+https://github.com/sikakoluchaitanya/Command-Line-Tetris/assets/52370283/732bdf75-3c5a-435d-90c0-65742f3d9ab4
+
 
 - C++ compiler (e.g., g++)
 - Terminal or command prompt
